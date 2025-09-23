@@ -54,12 +54,6 @@
     "category": "text-to-video"
   },
   {
-    "id": "8e3m5",
-    "name": "Flux Dev",
-    "url": "8e3m5-flux-dev",    
-    "category": "text-to-image"
-  },
-  {
     "id": "94lhm",
     "name": "Flux Redux 2 Images",
     "url": "94lhm-flux-redux-2-images",    
@@ -82,13 +76,7 @@
     "name": "Base Stable Diffusion Image to Image",
     "url": "afoye-base-stable-diffusion-image-to-image",    
     "category": "image-to-image"
-  },
-  {
-    "id": "b5v17",
-    "name": "Flux GGUF Detailer",
-    "url": "b5v17-flux-gguf-detailer",
-    "category": "editing-inpainting"
-  },
+  },  
   {
     "id": "b82lw",
     "name": "Basic Animatediff LCM",
@@ -106,13 +94,7 @@
     "name": "Mochi ComfyUI Native",
     "url": "bq6f1-mochi-comfyui-native",
     "category": "text-to-video"
-  },
-  {
-    "id": "by7uq",
-    "name": "Flux Dev GGUF Basic Inpainting",
-    "url": "by7uq-flux-dev-gguf-basic-inpainting",    
-    "category": "editing-inpainting"
-  },
+  },  
   {
     "id": "hqj80",
     "name": "Wan VACE Image Reference",
@@ -160,13 +142,7 @@
     "name": "Pulid Flux",
     "url": "p44se-pulid-flux",    
     "category": "image-to-image"
-  },
-  {
-    "id": "pexbu",
-    "name": "Flux Dev Lora",
-    "url": "pexbu-flux-dev-lora",    
-    "category": "text-to-image"
-  },
+  },  
   {
     "id": "pla14",
     "name": "Hunyuan Text to Video",
@@ -184,13 +160,7 @@
     "name": "Mochi ComfyUI Native Webp",
     "url": "rbacj-mochi-comfyui-native-webp",    
     "category": "image-to-image"
-  },
-  {
-    "id": "roup2",
-    "name": "Flux Dev Fill GGUF Detailed Inpainting",
-    "url": "roup2-flux-dev-fill-gguf-detailed-inpainting",    
-    "category": "editing-inpainting"
-  },
+  },  
   {
     "id": "vlcfl",
     "name": "Crop and Pad",
