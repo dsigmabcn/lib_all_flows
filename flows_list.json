@@ -12,18 +12,6 @@
     "category": "text-to-image"
   },
   {
-    "id": "3b1ww",
-    "name": "Stable Diffusion Detailer",
-    "url": "3b1ww-stable-diffusion-detailer",    
-    "category": "editing-inpainting"
-  },
-  {
-    "id": "40uu9",
-    "name": "Mochi Text to Video",
-    "url": "40uu9-mochi-text-to-video",    
-    "category": "text-to-video"
-  },
-  {
     "id": "5qjq4",
     "name": "Flux Redux 3 Images",
     "url": "5qjq4-flux-redux-3-images",    
@@ -154,12 +142,6 @@
     "name": "Flux Depth",
     "url": "ppfxh-flux-depth",    
     "category": "tools"
-  },
-  {
-    "id": "rbacj",
-    "name": "Mochi ComfyUI Native Webp",
-    "url": "rbacj-mochi-comfyui-native-webp",    
-    "category": "image-to-image"
   },  
   {
     "id": "vlcfl",
