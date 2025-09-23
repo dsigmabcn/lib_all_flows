@@ -1,11 +1,5 @@
 [
   {
-    "id": "28s1h",
-    "name": "Flux Detailer",
-    "url": "28s1h-flux-detailer",    
-    "category": "editing-inpainting"
-  },
-  {
     "id": "2m1x4",
     "name": "Base Stable Diffusion",
     "url": "2m1x4-base-stable-diffusion",    
@@ -24,12 +18,6 @@
     "category": "editing-inpainting"
   },
   {
-    "id": "3pw8q",
-    "name": "Flux Dev Fill Detailed Inpainting",
-    "url": "3pw8q-flux-dev-fill-detailed-inpainting",    
-    "category": "editing-inpainting"
-  },
-  {
     "id": "40uu9",
     "name": "Mochi Text to Video",
     "url": "40uu9-mochi-text-to-video",    
@@ -45,12 +33,6 @@
     "id": "65j5u",
     "name": "Background Remover",
     "url": "65j5u-background-remover",    
-    "category": "tools"
-  },
-  {
-    "id": "6xjt5",
-    "name": "Base Flux Dev Background Removal",
-    "url": "6xjt5-base-flux-dev-background-removal",    
     "category": "tools"
   },
   {
@@ -129,12 +111,6 @@
     "id": "by7uq",
     "name": "Flux Dev GGUF Basic Inpainting",
     "url": "by7uq-flux-dev-gguf-basic-inpainting",    
-    "category": "editing-inpainting"
-  },
-  {
-    "id": "f9k2j",
-    "name": "Flux Dev Basic Inpainting",
-    "url": "f9k2j-flux-dev-basic-inpainting",    
     "category": "editing-inpainting"
   },
   {
