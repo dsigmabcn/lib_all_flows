@@ -2,7 +2,7 @@
   "1": {
     "inputs": {
       "unet_name": "FLUX/flux1-dev.safetensors",
-      "weight_dtype": "fp8_e4m3fn"
+      "weight_dtype": "default"
     },
     "class_type": "UNETLoader",
     "_meta": {
@@ -82,7 +82,7 @@
   },
   "8": {
     "inputs": {
-      "noise_seed": 1030777358787088
+      "noise_seed": 1033310754401339
     },
     "class_type": "RandomNoise",
     "_meta": {
@@ -127,7 +127,7 @@
   },
   "12": {
     "inputs": {
-      "filename_prefix": "Flow",
+      "filename_prefix": "FLUX/Base_Flux_Dev_",
       "images": [
         "11",
         0
@@ -149,7 +149,7 @@
   },
   "14": {
     "inputs": {
-      "text": "A cartoon happy goat with purple eyes and a black horns in the jungle",
+      "text": "An astronaut surfing in the space, between colorful neon planets and stars",
       "clip": [
         "4",
         0
