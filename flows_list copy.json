@@ -1,0 +1,186 @@
+[
+  {
+    "id": "2m1x4",
+    "name": "Base Stable Diffusion",
+    "url": "2m1x4-base-stable-diffusion",
+    "category": "text-to-image",
+    "tags": ["base", "SD1.5","SDXL"],
+    "architecture": "SD15"
+  },
+  {
+    "id": "30kk2",
+    "name": "Base Flux Dev",
+    "url": "30kk2-base-flux-dev",
+    "category": "text-to-image",
+    "tags": ["base", "flux"],
+    "architecture": "FLUX_DEV"
+  },
+    {
+    "id": "7bxez",
+    "name": "Flux Redux",
+    "url": "7bxez-flux-redux",
+    "category": "image-to-image (reference)",
+    "tags": ["base","flux", "(re-)styling"],
+    "architecture": "FLUX_REDUX"
+  },
+  {
+    "id": "94lhm",
+    "name": "Flux Redux 2 Images",
+    "url": "94lhm-flux-redux-2-images",
+    "category": "image-to-image (reference)",
+    "tags": ["base","flux", "(re-)styling"],
+    "architecture": "FLUX_REDUX"
+  },
+  {
+    "id": "9w957",
+    "name": "Base Flux Dev Image to Image GGUF",
+    "url": "9w957-base-flux-dev-image-to-image-gguf",
+    "category": "image-to-image (editing)",
+    "tags": ["flux", "Quantized", "image-to-image"],
+    "architecture": "FLUX_DEV_GGUF"
+  },
+  {
+    "id": "afoye",
+    "name": "Base Stable Diffusion Image to Image",
+    "url": "afoye-base-stable-diffusion-image-to-image",
+    "category": "image-to-image (editing)",
+    "tags": ["base","SD1.5", "image-to-image"],
+    "architecture": "SD15"
+  },
+  {
+    "id": "7lm54",
+    "name": "Basic Animatediff",
+    "url": "7lm54-basic-animatediff",
+    "category": "text-to-video",
+    "tags": ["base","animatediff", "SD1.5"],
+    "architecture": "ANIMATE_DIFF_SD1.5"
+  },  
+  {
+    "id": "b82lw",
+    "name": "Basic Animatediff LCM",
+    "url": "b82lw-basic-animatediff-lcm",
+    "category": "text-to-video",
+    "tags": ["base","distilled-fast","animatediff"],
+    "architecture": "ANIMATE_DIFF_LCM"
+  },
+  {
+    "id": "bf3ea",
+    "name": "Flux Dev Fill GGUF Inpainting",
+    "url": "bf3ea-flux-dev-fill-gguf-inpainting",
+    "category": "image-to-image (editing)",
+    "tags": ["flux", "inpainting", "Quantized"],
+    "architecture": "FLUX_DEV_GGUF"
+  },
+  {
+    "id": "hqj80",
+    "name": "Wan VACE Image Reference",
+    "url": "hqj80-wan-vace-image-reference",
+    "category": "image-to-video",
+    "tags": ["base","wan"],
+    "architecture": "WAN2.1 VACE"
+  },
+  {
+    "id": "j5mss",
+    "name": "Wan VACE preprocessed Control Video",
+    "url": "j5mss-wan-vace-preprocessed-control-video",
+    "category": "video-to-video",
+    "tags": ["base","wan", "control"],
+    "architecture": "WAN2.1 VACE"
+  },
+  {
+    "id": "ju12s",
+    "name": "Flux Dev GGUF",
+    "url": "ju12s-base-flux-dev-gguf",
+    "category": "text-to-image",
+    "tags": ["flux", "Quantized"],
+    "architecture": "FLUX_DEV_GGUF"
+  },
+  {
+    "id": "k5ttn",
+    "name": "Stable Diffusion Inpainting",
+    "url": "k5ttn-stable-diffusion-inpainting",
+    "category": "image-to-image (editing)",
+    "tags": ["base","SD1.5", "inpainting"],
+    "architecture": "SD15"
+  },
+  {
+    "id": "lrml1",
+    "name": "OpenPose Controlnet Video",
+    "url": "lrml1-openpose-controlnet-video",
+    "category": "tools",
+    "tags": ["controlnet", "video"],
+    "architecture": "CONTROLNET SD1.5"
+  },
+  {
+    "id": "n0y8e",
+    "name": "Base Flux Dev Image to Image",
+    "url": "n0y8e-base-flux-dev-image-to-image",
+    "category": "image-to-image (editing)",
+    "tags": ["flux", "base", "image-to-image"],
+    "architecture": "FLUX_DEV"
+  },
+  {
+    "id": "ovlxj",
+    "name": "Wan VACE Control Video",
+    "url": "ovlxj-wan-vace-control-video",
+    "category": "video-to-video",
+    "tags": ["base","wan", "control"],
+    "architecture": "WAN2.1 VACE"
+  },
+  {
+    "id": "p44se",
+    "name": "Pulid Flux",
+    "url": "p44se-pulid-flux",
+    "category": "image-to-image (editing)",
+    "tags": ["base","flux", "pulid"],
+    "architecture": "FLUX_DEV"
+  },
+  {
+    "id": "ppfxh",
+    "name": "Flux Depth",
+    "url": "ppfxh-flux-depth",
+    "category": "image-to-image (reference)",
+    "tags": ["flux", "base","controlnet"],
+    "architecture": "CONTROLNET FLUX"
+  },
+  {
+    "id": "vlcfl",
+    "name": "Crop and Pad",
+    "url": "vlcfl-crop-and-pad",
+    "category": "tools",
+    "tags": ["layout"],
+    "architecture": "OTHER"
+  },
+  {
+    "id": "y2gic",
+    "name": "Flux Dev Fill Inpainting",
+    "url": "y2gic-flux-dev-fill-inpainting",
+    "category": "image-to-image (editing)",
+    "tags": ["base","flux", "inpainting"],
+    "architecture": "FLUX_INPAINT"
+  },
+  {
+    "id": "z1xtb",
+    "name": "Depth Controlnet Video",
+    "url": "z1xtb-depth-controlnet-video",
+    "category": "tools",
+    "tags": ["controlnet", "video"],
+    "architecture": "OTHER"
+  },
+    {
+    "id": "65j5u",
+    "name": "Background Remover",
+    "url": "65j5u-background-remover",
+    "category": "tools",
+    "tags": ["remove"],
+    "architecture": "OTHER"
+  },
+  {
+    "id": "9m3bo",
+    "name": "Crop, pad 2 images side by side",
+    "url": "9m3bo-crop-pad-2-images-side-by-side",
+    "category": "tools",
+    "tags": ["layout"],
+    "architecture": "OTHER"
+  }
+]
