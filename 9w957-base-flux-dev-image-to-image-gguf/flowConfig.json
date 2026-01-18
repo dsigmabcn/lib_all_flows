@@ -41,14 +41,14 @@
     },
     {
       "id": "dropdowncje7lx",
-      "url": "KSamplerSelect",
+      "url": "KSampler",
       "key": "sampler_name",
       "label": "Sampler",
       "nodePath": "9.inputs.sampler_name"
     },
     {
       "id": "dropdown0lhl23",
-      "url": "BasicScheduler",
+      "url": "KSampler",
       "key": "scheduler",
       "label": "Scheduler",
       "nodePath": "3.inputs.scheduler"

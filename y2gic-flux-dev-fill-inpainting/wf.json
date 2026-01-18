@@ -60,7 +60,7 @@
   },
   "9": {
     "inputs": {
-      "filename_prefix": "ComfyUI",
+      "filename_prefix": "FLUX/Base_FLUX_Inpaint_",
       "images": [
         "47",
         0
@@ -109,7 +109,7 @@
   },
   "32": {
     "inputs": {
-      "vae_name": "ae.sft"
+      "vae_name": "ae.safetensors"
     },
     "class_type": "VAELoader",
     "_meta": {
@@ -119,7 +119,7 @@
   "34": {
     "inputs": {
       "clip_name1": "clip_l.safetensors",
-      "clip_name2": "t5xxl_fp16.safetensors",
+      "clip_name2": "t5xxl_fp8_e4m3fn.safetensors",
       "type": "flux"
     },
     "class_type": "DualCLIPLoader",
@@ -217,7 +217,7 @@
   },
   "49": {
     "inputs": {
-      "unet_name": "flux1-fill-dev.safetensors",
+      "unet_name": "FLUX/flux1-fill-dev.safetensors",
       "weight_dtype": "default"
     },
     "class_type": "UNETLoader",

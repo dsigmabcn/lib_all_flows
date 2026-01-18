@@ -93,18 +93,6 @@
     "architecture": "FLUX_DEV"
   },
   {
-    "id": "p44se",
-    "name": "Pulid Flux",
-    "url": "p44se-pulid-flux",
-    "category": "image-to-image (editing)",
-    "tags": {
-      "type": ["base"],
-      "base_models": ["FLUX"],
-      "other": ["editing"]
-    },
-    "architecture": "FLUX_DEV"
-  },
-  {
     "id": "y2gic",
     "name": "Flux Dev Fill Inpainting",
     "url": "y2gic-flux-dev-fill-inpainting",
