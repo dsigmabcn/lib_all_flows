@@ -24,13 +24,6 @@
       "nodePath": "14.inputs.ckpt_name"
     },
     {
-      "id": "dropdownzop07u",
-      "url": "VAELoader",
-      "key": "vae_name",
-      "label": "VAE",
-      "nodePath": "19.inputs.vae_name"
-    },
-    {
       "id": "dropdowne1tcbq",
       "url": "KSampler",
       "key": "sampler_name",

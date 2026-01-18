@@ -112,7 +112,7 @@
     "tags": {
       "type": ["base"],
       "base_models": ["FLUX"],
-      "other": ["(re-)styeling"]
+      "other": ["(re-)styling"]
     },
     "architecture": "FLUX_REDUX"
   },
@@ -124,7 +124,7 @@
     "tags": {
       "type": ["base"],
       "base_models": ["FLUX"],
-      "other": ["(re-)styeling"]
+      "other": ["(re-)styling"]
     },
     "architecture": "FLUX_REDUX"
   },

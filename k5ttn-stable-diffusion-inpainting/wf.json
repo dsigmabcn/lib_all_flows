@@ -62,8 +62,8 @@
         0
       ],
       "vae": [
-        "19",
-        0
+        "14",
+        2
       ]
     },
     "class_type": "VAEDecode",
@@ -73,7 +73,7 @@
   },
   "9": {
     "inputs": {
-      "filename_prefix": "ComfyUI",
+      "filename_prefix": "SD_SDXL/Base_SD_SDXL_INPAINTING",
       "images": [
         "17",
         0
@@ -101,8 +101,8 @@
         0
       ],
       "vae": [
-        "19",
-        0
+        "14",
+        2
       ]
     },
     "class_type": "VAEEncode",
@@ -112,7 +112,7 @@
   },
   "14": {
     "inputs": {
-      "ckpt_name": "juggernautXL_v7Rundiffusion.safetensors"
+      "ckpt_name": "SDXL/RealVisXL_V5.0_fp16.safetensors"
     },
     "class_type": "CheckpointLoaderSimple",
     "_meta": {
@@ -181,14 +181,5 @@
     "_meta": {
       "title": "🔧 Mask Blur"
     }
-  },
-  "19": {
-    "inputs": {
-      "vae_name": "sdxl_vae.safetensors"
-    },
-    "class_type": "VAELoader",
-    "_meta": {
-      "title": "Load VAE"
-    }
-  }
+  }  
 }
