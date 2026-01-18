@@ -66,7 +66,7 @@
       "base_models": ["FLUX"],
       "other": ["inpainting"]
     },
-    "architecture": "FLUX_DEV_GGUF"
+    "architecture": "FLUX_INPAINT_GGUF"
   },
   {
     "id": "k5ttn",

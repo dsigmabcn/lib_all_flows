@@ -169,7 +169,7 @@
   },
   "46": {
     "inputs": {
-      "unet_name": "flux1-fill-dev-Q4_1.gguf"
+      "unet_name": "FLUX/flux1-fill-dev-Q6_K.gguf"
     },
     "class_type": "UnetLoaderGGUF",
     "_meta": {
