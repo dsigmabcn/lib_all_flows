@@ -47,15 +47,15 @@
       "nodePath": "4.inputs.clip_name2"
     },
     {
-      "id": "dropdown7w611e",
-      "url": "KSamplerSelect",
+      "id": "dropdown3nt12l",
+      "url": "KSampler",
       "key": "sampler_name",
       "label": "Sampler",
       "nodePath": "9.inputs.sampler_name"
     },
     {
-      "id": "dropdowngcqifn",
-      "url": "BasicScheduler",
+      "id": "dropdownll8m0e",
+      "url": "KSampler",
       "key": "scheduler",
       "label": "Scheduler",
       "nodePath": "3.inputs.scheduler"
