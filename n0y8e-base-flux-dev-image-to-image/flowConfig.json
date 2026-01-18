@@ -47,18 +47,18 @@
       "nodePath": "4.inputs.clip_name2"
     },
     {
-      "id": "dropdown24r545",
-      "url": "KSamplerSelect",
-      "key": "sampler_name",
-      "label": "Sampler",
-      "nodePath": "9.inputs.sampler_name"
-    },
-    {
-      "id": "dropdownqwqnuz",
-      "url": "BasicScheduler",
+      "id": "dropdownwkan0o",
+      "url": "KSampler",
       "key": "scheduler",
       "label": "Scheduler",
       "nodePath": "3.inputs.scheduler"
+    },
+    {
+      "id": "dropdownao0rm9",
+      "url": "KSampler",
+      "key": "sampler_name",
+      "label": "Sampler",
+      "nodePath": "9.inputs.sampler_name"
     }
   ],
   "steppers": [
