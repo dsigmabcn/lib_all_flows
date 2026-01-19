@@ -1,7 +1,7 @@
 {
   "9": {
     "inputs": {
-      "filename_prefix": "z-image",
+      "filename_prefix": "ZIT/Z-image-T2I",
       "images": [
         "65",
         0
@@ -62,7 +62,7 @@
   },
   "66": {
     "inputs": {
-      "unet_name": "z_image_turbo_bf16.safetensors",
+      "unet_name": "Z-Image/z_image_turbo_bf16.safetensors",
       "weight_dtype": "default"
     },
     "class_type": "UNETLoader",
