@@ -22,17 +22,6 @@
     "architecture": "FLUX_DEV"
   },
   {
-    "id": "jj0qd",
-    "name": "Z-Image Turbo",
-    "url": "jj0qd-z-image-turbo-t2v",
-    "category": "text-to-image",
-    "tags": {
-      "type": ["base"],
-      "base_models": ["Z-image"]
-    },
-    "architecture": "Z-IMAGE-TURBO"
-  },
-  {
     "id": "ju12s",
     "name": "Flux Dev GGUF",
     "url": "ju12s-base-flux-dev-gguf",
@@ -77,7 +66,7 @@
       "base_models": ["FLUX"],
       "other": ["inpainting"]
     },
-    "architecture": "FLUX_INPAINT_GGUF"
+    "architecture": "FLUX_DEV_GGUF"
   },
   {
     "id": "k5ttn",
@@ -104,6 +93,18 @@
     "architecture": "FLUX_DEV"
   },
   {
+    "id": "p44se",
+    "name": "Pulid Flux",
+    "url": "p44se-pulid-flux",
+    "category": "image-to-image (editing)",
+    "tags": {
+      "type": ["base"],
+      "base_models": ["FLUX"],
+      "other": ["editing"]
+    },
+    "architecture": "FLUX_DEV"
+  },
+  {
     "id": "y2gic",
     "name": "Flux Dev Fill Inpainting",
     "url": "y2gic-flux-dev-fill-inpainting",
@@ -123,7 +124,7 @@
     "tags": {
       "type": ["base"],
       "base_models": ["FLUX"],
-      "other": ["(re-)styling"]
+      "other": ["(re-)styeling"]
     },
     "architecture": "FLUX_REDUX"
   },
@@ -135,7 +136,7 @@
     "tags": {
       "type": ["base"],
       "base_models": ["FLUX"],
-      "other": ["(re-)styling"]
+      "other": ["(re-)styeling"]
     },
     "architecture": "FLUX_REDUX"
   },
@@ -210,18 +211,6 @@
       "other": ["VACE"]
     },
     "architecture": "WAN2.1 VACE"
-  },
-  {
-    "id": "ojzhqq",
-    "name": "LTX-2 Text to Video",
-    "url": "ojzhqq-ltx2-text-to-video",
-    "category": "text-to-video",
-    "tags": {
-      "type": ["base"],
-      "base_models": ["LTX-2"],
-      "other": []
-    },
-    "architecture": "LTX2_T2V_I2V"
   },
   {
     "id": "lrml1",
