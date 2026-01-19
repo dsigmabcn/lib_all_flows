@@ -224,6 +224,18 @@
     "architecture": "LTX2_T2V_I2V"
   },
   {
+    "id": "b7o1t",
+    "name": "LTX-2 Image to Video",
+    "url": "b7o1t-ltx2-image-to-video",
+    "category": "image-to-video",
+    "tags": {
+      "type": ["base"],
+      "base_models": ["LTX-2"],
+      "other": []
+    },
+    "architecture": "LTX2_T2V_I2V"
+  },
+  {
     "id": "lrml1",
     "name": "OpenPose Controlnet Video",
     "url": "lrml1-openpose-controlnet-video",
