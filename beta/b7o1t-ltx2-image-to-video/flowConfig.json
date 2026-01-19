@@ -5,8 +5,9 @@
   "description": "Image to Video generation using the 2 step LTX2 video model.",
   "prompts": [
     {
-      "id": "promptsn3l9g",
+      "id": "promptyukahk",
       "label": "Prompt",
+      "default": "A close-up shot of a young waitress in a retro 1950s diner, her warm brown eyes meeting the camera with a gentle smile. She wears a black polka-dot dress with an elegant cream lace collar, her reddish-brown hair styled in an elaborate updo with delicate curls framing her freckled face. Soft, warm light from overhead fixtures illuminates her features as she stands behind a yellow counter. The camera begins slightly to her side, then slowly pushes in toward her face, revealing the subtle rosy blush on her cheeks. In the blurred background, the soft teal walls and a glowing red \"Diner\" sign create a nostalgic atmosphere. The ambient sounds of clinking dishes, distant conversations, and the gentle hum of a jukebox fill the air. She tilts her head slightly and says in a friendly, warm voice: \"Welcome to Rosie's. What can I get for you today?\" The mood is inviting, timeless, and full of classic American diner charm.",
       "nodePath": "120.inputs.text"
     }
   ],
