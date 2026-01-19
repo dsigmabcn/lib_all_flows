@@ -55,7 +55,7 @@
     },
     {
       "id": "dropdownnw7tf8",
-      "url": "KSamplerSelect",
+      "url": "KSampler",
       "key": "sampler_name",
       "label": "Sampler",
       "nodePath": "16.inputs.sampler_name"

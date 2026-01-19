@@ -30,7 +30,7 @@
   },
   "9": {
     "inputs": {
-      "filename_prefix": "ComfyUI",
+      "filename_prefix": "FLUX/BASE_FLUX_REDUX_2_IMAGES",
       "images": [
         "8",
         0
@@ -43,7 +43,7 @@
   },
   "10": {
     "inputs": {
-      "vae_name": "ae.sft"
+      "vae_name": "ae.safetensors"
     },
     "class_type": "VAELoader",
     "_meta": {
@@ -52,7 +52,7 @@
   },
   "11": {
     "inputs": {
-      "clip_name1": "t5xxl_fp16.safetensors",
+      "clip_name1": "t5xxl_fp8_e4m3fn.safetensors",
       "clip_name2": "clip_l.safetensors",
       "type": "flux"
     },
@@ -63,7 +63,7 @@
   },
   "12": {
     "inputs": {
-      "unet_name": "flux_1Dev.safetensors",
+      "unet_name": "FLUX/flux1-dev.safetensors",
       "weight_dtype": "default"
     },
     "class_type": "UNETLoader",
