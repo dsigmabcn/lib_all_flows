@@ -478,8 +478,8 @@
   "129": {
     "inputs": {
       "value": [
-        "143",
-        0
+        "147",
+        1
       ]
     },
     "class_type": "PrimitiveFloat",
@@ -563,30 +563,17 @@
       "title": "🔧 Simple Math"
     }
   },
-  "142": {
+  "147": {
     "inputs": {
-      "prefix": "",
-      "suffix": "",
-      "input": [
+      "value": "a",
+      "a": [
         "130",
         0
       ]
     },
-    "class_type": "SomethingToString",
+    "class_type": "SimpleMath+",
     "_meta": {
-      "title": "Something To String"
-    }
-  },
-  "143": {
-    "inputs": {
-      "string": [
-        "142",
-        0
-      ]
-    },
-    "class_type": "StringToFloatList",
-    "_meta": {
-      "title": "String to Float List"
+      "title": "🔧 Simple Math"
     }
   }
 }
