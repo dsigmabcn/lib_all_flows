@@ -68,5 +68,12 @@
       "defaultHeight": 720,
       "nodePath": "102.inputs"
     }
+  ],
+  "imageLoaders": [
+    {
+      "id": "imageLoader49olpn",
+      "label": "ImageLoader",
+      "nodePath": "98.inputs.image"
+    }
   ]
 }
