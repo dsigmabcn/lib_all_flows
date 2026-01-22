@@ -3,6 +3,14 @@
   "name": "Z-image-turbo T2V",
   "url": "jj0qd-z-image-turbo-t2v",
   "description": "Create Images using Z-Image Turbo (ZIT)",
+  "prompts": [
+    {
+      "id": "promptv7sd0u",
+      "label": "Prompt",
+      "default": "Latina female with thick wavy hair, harbor boats and pastel houses behind. Breezy seaside light, warm tones, cinematic close-up.",
+      "nodePath": "67.inputs.text"
+    }
+  ],
   "dropdowns": [
     {
       "id": "dropdowns3rfyp",
